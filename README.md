@@ -1,6 +1,13 @@
 # weather_forecast
 
-Weather Forecast using external API
+|                   working                    |                  error                   |
+| :------------------------------------------: | :--------------------------------------: |
+| ![working-image](images/example-working.png) | ![error-image](images/example-error.png) |
+
+Weather Forecast using external APIs
+
+- [zipcloud](https://zipcloud.ibsnet.co.jp/doc/api)
+- [OpenWeatherMap](https://openweathermap.org/)
 
 ## Getting Started
 
